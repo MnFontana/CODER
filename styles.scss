@@ -1,0 +1,17 @@
+$colorbg: salmon;
+$colorbg1: rgb(160, 28, 13);
+$colorbg2: rgb(58, 126, 143);
+
+p{
+    font-size: 20px;
+    @include fontStyle(blue, 18px)
+}
+
+h5{
+    background-color: $colorbg; 
+}
+
+
+
+
+
